@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.main {
+    background-color: #6943FF;
+    color: white;
+    padding-top: 20px;
+}
+
+input {
+    border: 1.5px solid #B295FF;
+    font-size:300%;
+    font-weight: 900;
+    width: 117px;
+    height: 83px;
+    border-radius: 5px;
+    background-color: #6943FF;
+    caret-color: white;
+    text-align: center;
+    color: white;
+    /* margin-bottom: 20px; */
+}
+
+h1 {
+    font-weight: bolder;
+    margin-top: 33px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    width: 117px;
+    height: 42px;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 34px;
+}
+
+.container {
+    background-color: #1F2937;
+    max-width: 100%;
+    height: 1000px;
+    color: #CCC1FF;
+    padding-top: 20px;
+}
+
+.container div {
+    background-color: #273549;
+    padding: 5px;
+    margin: 30px;
+}
+
+#feet, #gallons, #pound {
+    color: white;
+
+}
